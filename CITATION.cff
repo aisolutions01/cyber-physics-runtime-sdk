@@ -1,1 +1,42 @@
+cff-version: 1.2.0
+message: "If you use Cyber-Physics Runtime SDK in research or infrastructure experimentation, please cite it as follows."
+title: "Cyber-Physics Runtime SDK"
+version: "v0.1.0-alpha"
+date-released: 2026-05-28
+
+authors:
+
+* family-names: "Kazem"
+  given-names: "Munther"
+
+abstract: >
+Cyber-Physics Runtime SDK is an open infrastructure research project
+exploring deterministic runtime governance primitives for distributed
+operational stabilization, runtime entropy observation, CFL monitoring,
+and telemetry synchronization research.
+
+repository-code: "https://github.com/aisolutions01/cyber-physics-runtime-sdk"
+
+license: "Apache-2.0"
+
+keywords:
+
+* cyber-physics
+* runtime-governance
+* distributed-systems
+* operational-stability
+* telemetry
+* entropy
+* synchronization
+* infrastructure-research
+* runtime-orchestration
+
+preferred-citation:
+type: software
+authors:
+- family-names: "Kazem"
+given-names: "Munther"
+title: "Cyber-Physics Runtime SDK"
+version: "v0.1.0-alpha"
+date-released: 2026-05-28
 
